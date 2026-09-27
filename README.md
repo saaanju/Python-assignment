@@ -58,7 +58,7 @@ The purpose of this collection is to strengthen Python fundamentals through smal
 | `29.py` | Print a star pattern |
 | `30.py` | Print a number pattern |
 
-## 🛠️ Concepts Practiced
+##  Concepts Practiced
 
 This project provides practice with:
 
