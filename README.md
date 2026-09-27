@@ -2,13 +2,13 @@
 
 This repository contains **30 beginner-friendly Python programs** created for practicing fundamental programming concepts. The programs cover basic number operations, string manipulation, loops, conditional statements, functions, and pattern printing.
 
-## 📌 Project Overview
+##  Project Overview
 
 The purpose of this collection is to strengthen Python fundamentals through small, focused programs. Each program is stored in a separate `.py` file and can be executed independently.
 
-## 🗂️ Programs Included
+##  Programs Included
 
-### 🔢 Number Programs
+###  Number Programs
 
 | File | Description |
 |---|---|
@@ -23,7 +23,7 @@ The purpose of this collection is to strengthen Python fundamentals through smal
 | `9.py` | Reverse a number |
 | `10.py` | Check whether a number is prime |
 
-### 🔤 String Programs
+###  String Programs
 
 | File | Description |
 |---|---|
@@ -38,7 +38,7 @@ The purpose of this collection is to strengthen Python fundamentals through smal
 | `19.py` | Remove spaces from a string |
 | `20.py` | Convert a string to uppercase |
 
-### 🔁 String + Loop Programs
+###  String + Loop Programs
 
 | File | Description |
 |---|---|
@@ -51,7 +51,7 @@ The purpose of this collection is to strengthen Python fundamentals through smal
 | `27.py` | Find the longest word in a sentence |
 | `28.py` | Count each vowel separately (`a`, `e`, `i`, `o`, `u`) |
 
-### ⭐ Pattern Programs
+###  Pattern Programs
 
 | File | Description |
 |---|---|
@@ -75,14 +75,14 @@ This project provides practice with:
 - Nested loops
 - Pattern printing
 
-## 💻 Requirements
+##  Requirements
 
 - Python 3.x
 - Any Python-compatible IDE or code editor
 
 No external libraries are required.
 
-## 🚀 How to Run
+##  How to Run
 
 1. Install **Python 3** on your computer.
 2. Clone or download this repository.
@@ -103,7 +103,7 @@ python 16.py
 
 The program will ask for the required input and display the result in the terminal.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Weekend Programs/
@@ -117,7 +117,7 @@ Weekend Programs/
 └── 30.py
 ```
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 The main objectives of this project are to:
 
@@ -128,7 +128,7 @@ The main objectives of this project are to:
 - Develop logical thinking and problem-solving skills.
 - Gain practical experience by solving small programming problems.
 
-## 📚 Suitable For
+##  Suitable For
 
 This project is suitable for:
 
@@ -138,7 +138,7 @@ This project is suitable for:
 - Basic Python laboratory assignments
 - Practicing logic-building problems
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 The collection can be expanded by adding:
 
@@ -152,7 +152,7 @@ The collection can be expanded by adding:
 - More advanced pattern problems
 - Menu-driven Python applications
 
-## 👨‍💻 Author
+##  Author
 
 **Sanju Jana**
 
